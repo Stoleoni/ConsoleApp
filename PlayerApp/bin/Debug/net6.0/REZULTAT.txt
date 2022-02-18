@@ -1,0 +1,25 @@
+17.2.2022. 7:01:41
+[{"id":1
+"firstName":"MILJENKO"
+"lastName":"Milic"
+"club":"Osijek"
+"nationality":"Hrv"
+"position":"CM"}
+{"id":4
+"firstName":"Ivan"
+"lastName":"Ivic"
+"club":"Hajduk"
+"nationality":"HRV"
+"position":"CM"}
+{"id":6
+"firstName":"Ivan"
+"lastName":"Ivic"
+"club":"Hajduk"
+"nationality":"HRV"
+"position":"CM"}
+{"id":7
+"firstName":"Ivan"
+"lastName":"Ivic"
+"club":"Hajduk"
+"nationality":"HRV"
+"position":"CM"}]
