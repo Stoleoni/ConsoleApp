@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\welun\\source\\repos\\PlayerApp\\PlayerApp\\PlayerApp.csproj": {}
+    "C:\\Users\\welun\\source\\repos\\ConsoleApp\\PlayerApp\\PlayerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\welun\\source\\repos\\PlayerApp\\PlayerApp\\PlayerApp.csproj": {
+    "C:\\Users\\welun\\source\\repos\\ConsoleApp\\PlayerApp\\PlayerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\welun\\source\\repos\\PlayerApp\\PlayerApp\\PlayerApp.csproj",
+        "projectUniqueName": "C:\\Users\\welun\\source\\repos\\ConsoleApp\\PlayerApp\\PlayerApp.csproj",
         "projectName": "PlayerApp",
-        "projectPath": "C:\\Users\\welun\\source\\repos\\PlayerApp\\PlayerApp\\PlayerApp.csproj",
+        "projectPath": "C:\\Users\\welun\\source\\repos\\ConsoleApp\\PlayerApp\\PlayerApp.csproj",
         "packagesPath": "C:\\Users\\welun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\welun\\source\\repos\\PlayerApp\\PlayerApp\\obj\\",
+        "outputPath": "C:\\Users\\welun\\source\\repos\\ConsoleApp\\PlayerApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\welun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,6 +47,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
